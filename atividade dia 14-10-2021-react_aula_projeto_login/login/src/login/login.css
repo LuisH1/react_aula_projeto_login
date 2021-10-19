@@ -1,0 +1,66 @@
+.Login-container{
+    display: flex;
+    background-color: #f18e1cee;
+    margin: 0 auto;
+    margin-top: 200px;
+    align-items: center;
+    justify-content: center;
+    width: 700px;
+    height: 400px;
+    box-shadow: 3px 3px #080808;
+    border-radius: 2%;
+    padding: 45px;
+}
+
+#imagem{
+    width: 200px;
+}
+
+#div-imagem{
+    width: 50%;
+}
+
+#titulo{
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.usuario{
+    padding-top: 60px;
+}
+
+div input{
+    padding: 10px;
+    width: 230px;
+    height: 20px;
+    border-radius: 10px;
+    border: none;
+    background-color: #1b1b1b;
+    color: #f38313f3 !important;
+    font-weight: bold;
+}
+
+.senha{
+    padding: 15px;
+}
+
+.botao{
+    font-size: 0.8em;
+    color: #FFFFFF;
+    margin-top: 20px;
+    width: 230px;
+    height: 40px;
+    border-radius: 3%;
+    border-radius: 10px;
+    background-color: #0f0f0f;
+    border: 1px solid #e0aa16;
+}
+
+a{
+    text-decoration: none;
+}
+
+.esqueceu{
+    font-size: 0.8em;
+    color: #0d0d0e;
+}

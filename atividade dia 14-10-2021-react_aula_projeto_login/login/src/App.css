@@ -1,0 +1,14 @@
+body{
+  background-image: linear-gradient(to right, #181818, #fa7900);
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+
